@@ -1,2 +1,5 @@
-com\site\calzoneSENAC\Controller\GeralController.class
+com\site\calzoneSENAC\data\ItensVenda.class
 com\site\calzoneSENAC\CalzoneSenacApplication.class
+com\site\calzoneSENAC\Controller\GeralController.class
+com\site\calzoneSENAC\data\Cardapio.class
+com\site\calzoneSENAC\data\Pedido.class

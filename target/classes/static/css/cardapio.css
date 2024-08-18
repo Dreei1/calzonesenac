@@ -1,0 +1,23 @@
+
+a:hover {
+    text-decoration: underline;
+    color: black;
+}
+.valor {
+    font-family: Montserrat, sans-serif;
+    font-weight: bold;
+}
+
+.container-item {
+    padding: 6px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.titulo {
+    padding-top: 30px;
+}
+img {
+    margin: 5px;
+}
