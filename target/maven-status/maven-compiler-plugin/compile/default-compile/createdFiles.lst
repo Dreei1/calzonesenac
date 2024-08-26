@@ -1,5 +1,7 @@
-com\site\calzoneSENAC\data\ItensVenda.class
+com\site\calzoneSENAC\repository\CardapioRepository.class
+com\site\calzoneSENAC\repository\PedidoRepository.class
 com\site\calzoneSENAC\CalzoneSenacApplication.class
 com\site\calzoneSENAC\Controller\GeralController.class
 com\site\calzoneSENAC\data\Cardapio.class
+com\site\calzoneSENAC\service\PedidoService.class
 com\site\calzoneSENAC\data\Pedido.class
